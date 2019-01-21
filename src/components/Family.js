@@ -1,6 +1,5 @@
 import React from "react";
 import Person from "./Person";
-import { throws } from "assert";
 const Family = props => {
   console.log("props coming into family: ", props);
 
